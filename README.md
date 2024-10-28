@@ -1,7 +1,3 @@
-Here's the full README with your priorities highlighted, including the updated feature list and distribution table:
-
----
-
 # Ghosted: Synthetic Data Generation and Augmentation Library
 
 Ghosted is a Python library for generating synthetic data, augmenting existing datasets, and visualizing complex data distributions. It’s designed for data scientists, researchers, and developers who need to generate realistic synthetic data or blend synthetic data with real data for privacy-preserving applications, prototyping, testing, and educational purposes.
