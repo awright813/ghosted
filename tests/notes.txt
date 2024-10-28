@@ -1,0 +1,2 @@
+To run all tests, navigate to top-level ghosted directory and run:
+PYTHONPATH=$PYTHONPATH:$(pwd) pytest tests/
