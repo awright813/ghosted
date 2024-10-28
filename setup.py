@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ghosted",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python library for synthetic data generation, data blending, anomaly injection, and noise injection.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
